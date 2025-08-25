@@ -1,0 +1,15 @@
+{
+    "Card0": "kinglightinthedarkness",
+    "Card1": "anthemofhope",
+    "Card2": "redemption",
+    "Card3": "rayofhope",
+    "Card4": "shadowmend",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "healer",
+    "PackID": "silenus",
+    "PackName": "Silenus",
+    "PerkList": [],
+    "RequiredClass": "king"
+}

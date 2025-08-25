@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "skinsilenus",
+    "SkinID": "kingbase",
+    "SkinName": "Default",
+    "SkinOrder": 0,
+    "SkinSubclass": "king",
+    "Sku": "",
+    "SpritePortrait": "silenusPortrait",
+    "SpritePortraitGrande": "silenusPortraitGrande",
+    "SpriteSilueta": "silenusSilueta",
+    "SpriteSiluetaGrande": "silenusSiluetaGrande",
+    "SteamStat": ""
+}
