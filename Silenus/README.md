@@ -1,8 +1,8 @@
 # Silenus, the King
 
-A hero mod, introducing Silenus, a mage/healer who has been trapped in a mental cage. She goes on a journey to break out but has two very different ways of doing so overcoming the issues in a calm and focused way or forcefully breaking out of the cage through sheer will.
+Senenthia's King finally joins the search for his daughter, the Princess. Silenus is a Healer specializing in Courage, Dark, and Regeneration.
 
-This character was designed by @designer.
+This character was designed by @peachtree (PeachTree).
 
 This currently does not include any events or quests related to Silenus other than those available to all heroes or all heroes of a specific class.
 
